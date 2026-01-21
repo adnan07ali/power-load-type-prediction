@@ -29,13 +29,7 @@ power-load-type-prediction/
 │   └── Load_Type_Prediction.ipynb
 ├── README.md
 └── requirements.txt
-
-
-
-
-
-
-
+---
 
 ## How to Run
 1. Clone the repository
