@@ -21,6 +21,7 @@ Develop a multiclass machine learning model to predict the type of electrical lo
 Random Forest captures non-linear interactions and is robust to correlated features, making it ideal for electrical load prediction.
 
 ## 📁 Project Structure
+
 ```text
 power-load-type-prediction/
 ├── data/
@@ -29,8 +30,8 @@ power-load-type-prediction/
 │   └── Load_Type_Prediction.ipynb
 ├── README.md
 └── requirements.txt
----
 
+``` 
 ## How to Run
 1. Clone the repository
 2. Install dependencies using `pip install -r requirements.txt`
